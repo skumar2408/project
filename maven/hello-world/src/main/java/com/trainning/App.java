@@ -3,9 +3,9 @@ package com.trainning;
 /**
  * Hello world!
  */
-class App {
+public class App {
 /**
- * string argument.
+ * @param args
  */
     public static void main(final String[] args) {
         System.out.println("Hello World!");
