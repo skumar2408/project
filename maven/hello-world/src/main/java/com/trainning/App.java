@@ -5,7 +5,7 @@ package com.trainning;
  */
 class App {
 /**
- * final String[] args
+ * string argument
  */
     public static void main(final String[] args) {
         System.out.println("Hello World!");
