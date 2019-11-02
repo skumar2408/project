@@ -4,7 +4,7 @@ package com.trainning;
  * Hello world!
  */
 final class App {
-    private App {
+    private App() {
 
     }
 /**
